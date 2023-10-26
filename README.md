@@ -1,5 +1,5 @@
 <h1>
-POPFILMS - FRONT END
+POPFILMS - FRONT END 
 </h1> 
 
 Popfilms is our fullstack final project, featuring a social web app focused on movies. This is the front-end repository.  [here](https://github.com/michseixas/popfilms-client).
