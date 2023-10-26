@@ -1,7 +1,4 @@
 {
   "schemaVersion": 2,
-  "dockerfileLines": [
-    "FROM jawg/nginx-spa:latest", 
-    "COPY ./dist /usr/share/nginx/html" 
-  ]
+  "dockerfilePath" :"./Dockerfile"
 }
