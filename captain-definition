@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "dockerfileLines": [
-    "FROM nginx", 
-    "COPY ./dist /usr/share/nginx/html" 
+    "FROM codecentric/single-page-application-server:latest", 
+    "COPY ./dist /app" 
   ]
 }
